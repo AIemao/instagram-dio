@@ -11,7 +11,7 @@ Desafio de Projeto - Recriando a página inicial do Instagram
 
 ### Captura de tela
 
-<img src="/INSTA.png" alt style="max-width: 100%">
+<img src="/INSTA.PNG" alt style="max-width: 100%">
 
 
 ### Links
