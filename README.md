@@ -1,10 +1,33 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Digital Innovation One
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+<p align="center">
+  <img src="/DIO.png" alt="DIO" title="Digital Innovation One">
+</p>
 
-### Os requisitos são:
+## Bootcamp - Orbi Web Games Developer
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+Desafio de Projeto - Recriando a página inicial do Instagram
 
-## 🚀 Let's code! 🚀
+
+### Captura de tela
+
+<img src="/INSTA.png" alt style="max-width: 100%">
+
+
+### Links
+
+- URL da solução: [GitHub](https://github.com/AIemao/instagram-dio)
+- URL do site ao vivo: [GitHub Pages](https://aiemao.github.io/instagram-dio/)
+
+
+
+### Construído com
+
+- Marcação HTML5 semântica
+- Propriedades personalizadas de CSS
+
+
+## Autor
+
+- Site - [Celio Junior](https://www.linkedin.com/in/celio-junior-152529193/)
+
