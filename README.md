@@ -4,7 +4,7 @@
   <img src="/DIO.png" alt="DIO" title="Digital Innovation One">
 </p>
 
-## Bootcamp - Spread Fullstack Developer ![Spread Fullstack Developer]<img scr="https://user-images.githubusercontent.com/84292058/164535683-eddf7860-456a-42a9-a85b-d5e52ce7d931.png" alt style="max-width: 50%">
+## Bootcamp - Spread Fullstack Developer <img src="/Spread Fullstack Developer.PNG" alt style="max-width: 50%">
 
 Desafio de Projeto - Recriando a página inicial do Instagram
 
